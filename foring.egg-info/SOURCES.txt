@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+foring/__init__.py
+foring/core.py
+foring.egg-info/PKG-INFO
+foring.egg-info/SOURCES.txt
+foring.egg-info/dependency_links.txt
+foring.egg-info/requires.txt
+foring.egg-info/top_level.txt
