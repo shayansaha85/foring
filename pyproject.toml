@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "PyMyForing"  # Updated to match your new library name
-version = "0.1.0"
+version = "0.1.1"
 authors = [
   { name="Shayan Saha", email="shayan851997@gmail.com" },
 ]

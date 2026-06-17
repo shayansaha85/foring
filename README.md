@@ -1,7 +1,7 @@
 ![foring_logo](https://raw.githubusercontent.com/shayansaha85/foring/refs/heads/master/logo.png)
 <p>
 <img src = 'https://img.shields.io/badge/python-3.14.5-blue'>
-<img src = 'https://img.shields.io/badge/foring-0.1.0-green'>
+<img src = 'https://img.shields.io/badge/foring-0.1.1-green'>
 <img src = 'https://img.shields.io/badge/license-MIT-red'>
 
 
@@ -21,7 +21,7 @@ No more managing context managers (`with open...`), manually choosing between te
 You can install `foring` directly from PyPI using `pip`:
 
 ```bash
-pip install foring
+pip install PyMyForing
 ```
 
 ## Dependencies
