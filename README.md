@@ -9,6 +9,7 @@
 
 ---
 <br>
+
 `foring` is a lightweight, intuitive Python utility designed to take the friction out of file I/O operations. Inspired by the simplicity of `pandas` data loading routines, `foring` lets you read and write virtually any file format using just two clean, highly smart top-level functions: `read()` and `write()`. 
 
 No more managing context managers (`with open...`), manually choosing between text or binary modes (`'r'`, `'wb'`), parsing formats, or handling complex serialization formats like `pickle` or `plist` manually. `foring` auto-detects the extension and takes care of the heavy lifting.
